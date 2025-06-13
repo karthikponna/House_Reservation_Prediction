@@ -1,0 +1,4 @@
+data_ingestion:
+  bucket_name = "my_bucket"
+  bucket_key = "Hotel_Reservation.csv"
+  train_ration = 0.8
